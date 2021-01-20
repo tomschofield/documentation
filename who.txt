@@ -1,1 +1,1 @@
-Let's start a discussion about who documentation is for
+Let's start a discussion about who documentaiton is for and resolves some merge conflicts
